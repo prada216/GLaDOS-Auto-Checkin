@@ -39,12 +39,12 @@
 
 ### 第二步：获取 GLaDOS Cookie
 
-1. 打开浏览器，登录：https://glados.space
+1. 打开浏览器，登录：https://glados.cloud
 2. 按 **F12** 打开开发者工具
 3. 找到：
    - Chrome：`Application` → `Cookies`
    - Firefox：`存储` → `Cookies`
-4. 选择 `glados.space`
+4. 选择 `glados.cloud`
 5. **复制完整 Cookie 内容**
 
 示例（示意）：
